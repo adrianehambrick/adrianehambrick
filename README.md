@@ -4,11 +4,14 @@ I'm Adriane, a dedicated Data Analyst who naturally enjoys organizing informatio
 
  ✨ About Me ✨ 
 
--  I’m currently working on the Google Data Analytics Professional Certificate to hone my skills as a data analyst.
-- I enjoy learning new skills and systems
--->
+- Currently working on the Google Data Analytics Professional Certificate
+- Enjoy learning new skills and systems
+- Loves finding new ways to use Excel; I use it in my everyday life as well as in my 
+  work
+- Always looking for smarter ways to turn real-world problems into useful, strucured data
   
 Projects:
--*star*  SQL Project - Coming Soon...
-- Capstone Project - Coming Soon...
--  Excel Project Coming Soon...
+
+- ⭐ SQL Project - Coming Soon...
+- ⭐ Capstone Project - Coming Soon...
+- ⭐ Excel Project Coming Soon...
